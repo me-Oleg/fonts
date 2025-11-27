@@ -1,0 +1,35 @@
+/*
+  font - arial narrow
+*/
+
+@font-face {
+  font-family: "arialnarrow";
+  src: url("https://raw.githubusercontent.com/me-Oleg/fonts/main/arialnarrow.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "arialnarrow_bold";
+  src: url("https://raw.githubusercontent.com/me-Oleg/fonts/main/arialnarrow_bold.woff2") format("woff2");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "arialnarrow_italic";
+  src: url("https://raw.githubusercontent.com/me-Oleg/fonts/main/arialnarrow_italic.woff2") format("woff2");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "arialnarrow_bolditalic";
+  src: url("https://raw.githubusercontent.com/me-Oleg/fonts/main/arialnarrow_bolditalic.woff2") format("woff2");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
